@@ -1,6 +1,5 @@
 # Java
-Код JavaScript
-function calculateDiameter() {
+<p>function calculateDiameter() {
     var radiusInput = document.getElementById("radius");
     var radius = parseFloat(radiusInput.value);
     if (isNaN(radius)) {
@@ -9,4 +8,4 @@ function calculateDiameter() {
         var diameter = 2 * radius;
         document.getElementById("result").textContent = "Диаметр окружности равен: " + diameter;
     }
-}
+}</p>
