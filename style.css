@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    margin-top: 50px;
+    text-align: center;
+}
+input text {
+    padding: 5px;
+    width: 150px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #45af4c;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+}
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
